@@ -1,0 +1,6 @@
+{
+  "name": "PyTorch GoogLeNet Image Classification",
+  "description": "Image Classifier using PyTorch and GoogLeNet trained with ImageNet",
+  "repository": "https://github.com/JuantAldea/opencv-herokuu",
+  "keywords": ["python", "flask", "pytorch", "googlenet", "imagenet", "bootstrap"]
+}

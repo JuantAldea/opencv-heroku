@@ -1,4 +1,5 @@
 Flask
-gunicorn
+torchvision
 numpy
-opencv-contrib-python-headless
+Pillow
+gunicorn
